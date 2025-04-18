@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m ShadowCoder0111
 
-<!--
-**Push0111/Push0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 On a mission to master Python, AI, Cloud Tech, and Prompt Engineering.  
+🚀 Currently building: AI Portfolio + Digital Content  
+📚 Learning: Python, Stats, AI Algorithms, Cloud Tech, Quantum Computing, and Astrophysics  
+🧠 Interests: AI, Quantum Physics, Quantum Computing, Machine Learning, and Astrophysics  
+📫 Reach me: 112605528+ShadowCoder0111@users.noreply.github.com.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack:
+- Python, NumPy, Pandas, Matplotlib, Seaborn
+- Git & GitHub
+- Cloud Computing
+- Prompt Engineering
+- AI & ML Algorithms
+- Digital Content Creation
+- Quantum Computing
+- Astrophysics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Portfolio in Progress:
+- ✅ Python Basics Projects  
+- 🔄 NumPy & Pandas Notebooks  
+- 🔄 Stats Visualizations  
+- 🔜 ML Models & Prompt Packs  
+- 🔜 AI & Quantum Computing Experiments
+- 🔜 Tattvax YouTube Content  
+- 🔜 Maya Mechanica YouTube Content 
